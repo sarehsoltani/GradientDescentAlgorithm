@@ -1,4 +1,4 @@
 # GradientDescentAlgorithm
 Linear Regression Using Gradient Descent.
 
-Gradient descent can be used to solve machine learning problems such as linear regression. it can be used to solve machine learning problems such as linear regression.
+Gradient descent is one of the best optimization methods that we can use to solve the various machine learning problemcan such as linear regression.
